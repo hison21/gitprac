@@ -1,5 +1,5 @@
-hello
-small, wonderful
+hello,
+small and wonderful
 world!
 
 
